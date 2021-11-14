@@ -1,0 +1,43 @@
+body {
+  background-color: #FEF5ED;
+  color: #ADC2A9;
+  font-family: Gill Sans;
+}
+
+hr {
+  border-style: none none dotted;
+  border-color: #D3E4CD;
+  border-width:10px;
+  width: 10%;
+}
+
+h1 {
+  color: #99A799;
+  font-family: Gill Sans;
+}
+
+h3 {
+  color: #99A799;
+  font-family: Gill Sans;
+}
+/*
+p {
+  color: #99A799;
+  font-family: Gill Sans;
+}
+
+ul {
+  color: #99A799;
+  font-family: Gill Sans;
+}
+
+table {
+  color: #99A799;
+  font-family: Gill Sans;
+}
+
+form {
+  color: #99A799;
+  font-family: Gill Sans;
+}
+*/
